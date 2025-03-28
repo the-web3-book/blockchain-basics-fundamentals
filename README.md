@@ -97,4 +97,15 @@
 - [9.3 Web3 监管与合规问题](./chapter-09/03-web3-regulation-and-compliance.md)  
 - [9.4 社会与伦理影响](./chapter-09/04-social-and-ethical-impacts.md)  
 - [9.5 区块链的未来趋势](./chapter-09/05-future-trends-of-blockchain.md)  
-- [9.6 本章小结](./chapter-09/06-chapter-summary.md)  
+- [9.6 本章小结](./chapter-09/06-chapter-summary.md)
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
