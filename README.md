@@ -4,12 +4,12 @@
 
 ## 第 1 章 区块链的基本概念
 
-- [1.1 什么是区块链](./chapter-01/01-what-is-blockchain.md)  
-- [1.2 区块链的起源与演变](./chapter-01/02-blockchain-origin-and-evolution.md)  
-- [1.3 区块链的基本原理与特征](./chapter-01/03-blockchain-principles-and-features.md)  
-- [1.4 区块链网络的组成要素](./chapter-01/04-blockchain-network-components.md)  
-- [1.5 区块链的分类与适用场景](./chapter-01/05-blockchain-classification-and-use-cases.md)  
-- [1.6 区块链对社会与经济的影响](./chapter-01/06-blockchain-impact-on-society-and-economy.md)  
+- [1.1 什么是区块链](./chapter-01/01-what-is-blockchain.md)   ✅
+- [1.2 区块链的起源与演变](./chapter-01/02-blockchain-origin-and-evolution.md)  ✅
+- [1.3 区块链的基本原理与特征](./chapter-01/03-blockchain-principles-and-features.md)   ✅
+- [1.4 区块链网络的组成要素](./chapter-01/04-blockchain-network-components.md)   ✅
+- [1.5 区块链的分类与适用场景](./chapter-01/05-blockchain-classification-and-use-cases.md)  ✅
+- [1.6 区块链对社会与经济的影响](./chapter-01/06-blockchain-impact-on-society-and-economy.md)   ✅
 - [1.7 本章小结](./chapter-01/07-chapter-summary.md)  
 
 ## 第 2 章 区块链的核心密码学算法
