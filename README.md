@@ -13,14 +13,14 @@
 - [1.7 本章小结](./chapter-01/07-chapter-summary.md)  
 
 ## 第 2 章 区块链的核心密码学算法
-- [2.1 区块链密码学概览](./chapter-02/01-blockchain-cryptography-overview.md)  
-- [2.2 数据完整性保障与哈希算法](./chapter-02/02-data-integrity-and-hash-algorithms.md)  
-- [2.3 对称加密与非对称加密](./chapter-02/03-symmetric-and-asymmetric-encryption.md)  
-- [2.4 数据加解密与数字签名认证](./chapter-02/04-data-encryption-and-digital-signatures.md)  
-- [2.6 安全多方计算（MPC）与数字货币托管系统](./chapter-02/06-secure-multiparty-computation-and-custody.md)  
-- [2.7 零知识算法与区块链隐私保护](./chapter-02/07-zero-knowledge-and-privacy-protection.md)  
-- [2.8 区块链密码学未来展望](./chapter-02/08-future-of-blockchain-cryptography.md)  
-- [2.9 本章小结](./chapter-02/09-chapter-summary.md)  
+- [2.1 区块链密码学概览](./chapter-02/01-blockchain-cryptography-overview.md)  ⌛️
+- [2.2 数据完整性保障与哈希算法](./chapter-02/02-data-integrity-and-hash-algorithms.md)  ⌛️
+- [2.3 对称加密与非对称加密](./chapter-02/03-symmetric-and-asymmetric-encryption.md)  ⌛️
+- [2.4 数据加解密与数字签名认证](./chapter-02/04-data-encryption-and-digital-signatures.md)  ⌛️
+- [2.6 安全多方计算（MPC）与数字货币托管系统](./chapter-02/06-secure-multiparty-computation-and-custody.md)  ⌛️
+- [2.7 零知识算法与区块链隐私保护](./chapter-02/07-zero-knowledge-and-privacy-protection.md)  ⌛️
+- [2.8 区块链密码学未来展望](./chapter-02/08-future-of-blockchain-cryptography.md)  ⌛️
+- [2.9 本章小结](./chapter-02/09-chapter-summary.md)  ⌛️
 
 ## 第 3 章 区块链的基本数据结构
 - [3.1 区块链基本数据结构概览](./chapter-03/01-blockchain-data-structures-overview.md)  
