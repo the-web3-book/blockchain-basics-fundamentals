@@ -26,7 +26,7 @@
 
 如下图：用户 A 使用密钥 X 对消息进行加密，用户 B 使用密钥 X 对消息解密，加解密过程使用的都是同一把密钥
 
-[![Dapplink](./images/encrpyto-1.jpg)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3-book/blockchain-wallet-application-development/blob/main/chapter-02/images/encrpyto-1.jpg)](https://github.com/the-web3)
 
 
 ## 三.非对称加密算法
@@ -35,7 +35,7 @@
 
 #### 1.在加密过程中，公钥用于加密，私钥用于解密
 
-[![Dapplink](./images/encrpyto-2.jpg)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3-book/blockchain-wallet-application-development/blob/main/chapter-02/images/encrpyto-2.jpg)](https://github.com/the-web3)
 
 - 用户 A 使用用户 B 的公钥对要传输的消息进行加密
 - 将消息发给用户 B, 用户 B 使用自己的私钥进行解密消息
@@ -43,7 +43,7 @@
 
 #### 2.在签名过程中，私钥用于签名，公钥用于验证签名
 
-[![Dapplink](./images/encrpyto-3.jpg)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3-book/blockchain-wallet-application-development/blob/main/chapter-02/images/encrpyto-3.jpg)](https://github.com/the-web3)
 
 - 用户 A 使用自己的私钥对消息进行签名
 - 由于公钥是公开的，其他任何用户都可以使用用户 B 的公钥进行签名验证，如果验证成功，说明消息是用户 A 签名的，验证失败，则不是
