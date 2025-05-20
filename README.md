@@ -13,7 +13,7 @@
 - [1.7 本章小结](./chapter-01/07-chapter-summary.md)  
 
 ## 第 2 章 区块链的核心密码学算法
-- [2.1 区块链密码学概览](./chapter-02/01-blockchain-cryptography-overview.md)  ⌛️
+- [2.1 区块链密码学概览](./chapter-02/01-blockchain-cryptography-overview.md)  ✅
 - [2.2 数据完整性保障与哈希算法](./chapter-02/02-data-integrity-and-hash-algorithms.md)  ⌛️
 - [2.3 对称加密与非对称加密](./chapter-02/03-symmetric-and-asymmetric-encryption.md)  ⌛️
 - [2.4 数据加解密与数字签名认证](./chapter-02/04-data-encryption-and-digital-signatures.md)  ⌛️
