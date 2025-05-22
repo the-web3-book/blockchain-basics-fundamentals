@@ -1,4 +1,10 @@
+# 作者信息
 
+| 用户名 | 推特 | 真实名字 | 简介 |
+|--------|---------|------|--------|
+| Seek | seek_web3 | ShiJiang.Guo | DappLink and The Web3 创始人, 曾就职于 Mantle, Bybit, 昆仑万维, HBTC, 币信, ChainUp, 云控蜂核, Achain, Linkeye, Kcash, Biwork, 华夏银行,中信银行|
+
+# 第四节：布隆过滤器
 
 
 布隆过滤器（Bloom Filter）是一种空间效率极高的概率型数据结构，用于判断某个元素是否存在于集合中，但允许一定的误判率（False Positive）。它广泛应用于区块链、数据库、搜索引擎、反垃圾邮件检测等场景，特别适用于 大规模数据集合的快速查找。
