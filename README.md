@@ -23,7 +23,7 @@
 - [2.9 本章小结](./chapter-02/09-chapter-summary.md)  ⌛️
 
 ## 第 3 章 区块链的基本数据结构
-- [3.1 区块链基本数据结构概览](./chapter-03/01-blockchain-data-structures-overview.md)  
+- [3.1 区块链基本数据结构概览](./chapter-03/01-blockchain-data-structures-overview.md)  ✅
 - [3.2 Merkle 树与 Merkle Proof](./chapter-03/02-merkle-tree-and-proof.md)  
 - [3.3 前缀树与 MPT 树](./chapter-03/03-prefix-tree-and-mpt.md)  
 - [3.4 布隆过滤器](./chapter-03/04-bloom-filter.md)  
