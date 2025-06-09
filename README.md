@@ -26,7 +26,7 @@
 - [3.3 前缀树与 MPT 树](./chapter-03/03-prefix-tree-and-mpt.md) ✅
 - [3.4 布隆过滤器](./chapter-03/04-bloom-filter.md) ✅ 
 - [3.5 数据存储与账本管理](./chapter-03/05-data-storage-and-ledger-management.md) ✅   
-- [3.6 链码（Chaincode）和智能合约](./chapter-03/06-chaincode-and-smart-contracts.md) 
+- [3.6 链码（Chaincode）和智能合约](./chapter-03/06-chaincode-and-smart-contracts.md) ✅  
 - [3.7 数据分片技术](./chapter-03/07-data-sharding-technology.md)
 - [3.8 本章小结](./chapter-03/08-chapter-summary.md)  
 
