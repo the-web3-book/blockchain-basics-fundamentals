@@ -34,7 +34,7 @@
 - [4.1 共识算法简介](./chapter-04/01-consensus-algorithms-introduction.md)  ✅ 
 - [4.2 共识算法的发展历程](./chapter-04/02-history-of-consensus-algorithms.md) ✅ 
 - [4.3 工作量证明（PoW）](./chapter-04/03-proof-of-work.md) ✅  
-- [4.4 权益证明（PoS）](./chapter-04/04-proof-of-stake.md)  
+- [4.4 权益证明（PoS）](./chapter-04/04-proof-of-stake.md) ✅  
 - [4.5 委托权益证明（DPoS）](./chapter-04/05-delegated-proof-of-stake.md)  
 - [4.5 拜占庭容错（PBFT）与改进算法](./chapter-04/05-pbft-and-improved-algorithms.md)  
 - [4.6 混合型共识与新兴算法](./chapter-04/06-hybrid-and-emerging-consensus.md)  
